@@ -1,0 +1,32 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+}
+
+main{
+  width: 960px
+}
+
+.list-item{
+  
+}
+
+ .item{
+   
+ }
+ 
+ .item:nth-child(odd){
+   
+ }
+ 
+ .list-box{
+   
+ }
+ 
+ .box{
+   
+ }
+ 
+ 
+
